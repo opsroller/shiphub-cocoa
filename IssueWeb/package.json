@@ -18,7 +18,7 @@
     "font-awesome": "^4.5.0",
     "html-escape": "^2.0.0",
     "html-linkify": "^1.2.2",
-    "jquery": "^2.2.2",
+    "jquery": "^3.5.0",
     "js-htmlencode": "^0.1.0",
     "md5": "^2.1.0",
     "react": "15.6.2",
